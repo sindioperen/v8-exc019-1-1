@@ -6,8 +6,8 @@ public class forEttTjugo {
 	public static void main (String[] args) {
 		
 		for (int i=1; i<=20; i++) {
-			System.out.println(i);
+			System.out.print(i + ", ");
 		}
-		System.out.println("Nu är forEttTjugo slut.");
+		System.out.println("\nNu är forEttTjugo slut.");
 	}
 }
