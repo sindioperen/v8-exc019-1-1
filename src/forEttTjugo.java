@@ -9,5 +9,6 @@ public class forEttTjugo {
 			System.out.print(i + ", ");
 		}
 		System.out.println("\nNu är forEttTjugo slut.");
+		System.out.println("\nI och med det här är programmet färdigkört.");
 	}
 }
